@@ -10,7 +10,7 @@ paramiko==2.4.1
 psycopg2==2.7.5
 pyasn1==0.4.4
 pycparser==2.18
-pycryptodome==3.6.5
+pycryptodome==3.6.6
 PyNaCl==1.2.1
 pytz==2018.5
 requests==2.20.0
